@@ -13,7 +13,7 @@ typedef struct{
 
 
 
-void draw2(vehicle car);
+void draw2(vehicle car); // typedef so no structs in front
 
 void draw(struct point p);
 
