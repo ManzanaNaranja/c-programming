@@ -187,6 +187,10 @@ int main() {
    remove_index(&head, 2);
    remove_val(&head, 22);
    print_list(head);
+   remove_val(&head, 28882);
+   print_list(head);
+   addLast(head, 22);
+   print_list(head);
 
 
    
