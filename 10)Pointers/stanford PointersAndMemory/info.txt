@@ -1,0 +1,1 @@
+http://cslibrary.stanford.edu/102/PointersAndMemory.pdf
